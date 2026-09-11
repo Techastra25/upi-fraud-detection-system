@@ -2,7 +2,7 @@
 
 **Real-time fraud detection service** — a decoupled backend API + live frontend dashboard, built the way an actual fintech risk team would ship it.
 
-🔴 **Live Demo:** _[add link after deploying — steps below]_ &nbsp;|&nbsp; 📄 **API Docs:** _[add link after deploying]_
+🔴 **Live Demo:** [Click here](https://zw5sb5ouxj.streamlit.app) &nbsp;|&nbsp; 📄 **API Docs:** [Click here](https://upi-fraud-api-7o82.onrender.com/docs)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688) ![XGBoost](https://img.shields.io/badge/XGBoost-Model-EB6E37) ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-FF4B4B) ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
 
